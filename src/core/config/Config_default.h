@@ -46,11 +46,14 @@ R"===(
     },
     "autosave": true,
     "version": 1,
-    "background": false,
-    "colors": true,
+    "background": true,
+    "colors": false,
     "randomx": {
         "init": -1,
         "mode": "auto",
+        "1gb-pages":false,
+        "rdmsr":true,
+        "wrmsr":true,
         "numa": true
     },
     "cpu": {

@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 UV_VERSION="1.34.0"
-OPENSSL_VERSION="1.1.1d"
+OPENSSL_VERSION="1.1.1f"
 HWLOC_VERSION="2.1.0"
 
 mkdir deps
